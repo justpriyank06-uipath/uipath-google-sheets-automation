@@ -14,7 +14,6 @@ The bot utilizes built-in **Spreadsheet Functions** for data manipulation, lever
 * **Advanced Spreadsheet Automation:** Uses native **Spreadsheet Functions**, `Read Range`, `Auto Fill Range`, and `Write Cell` to process and consolidate dynamic multi-file datasets.
 * **UiPath Integration Service & GenAI:** Harnesses Integration Service connectors to trigger **Generative AI** activities for intelligent email context analysis, intent classification, and automated reply drafting.
 * **Email Automation:** Leverages native Email Activities (`Reply to Email` / `Send Mail`) to deliver automated, context-aware email responses and status reports to stakeholders.
-* **Robust Exception Handling:** Built-in error logging and data validation to handle corrupt rows and invalid file structures without workflow termination.
 
 ---
 
